@@ -1,0 +1,13 @@
+div {
+    padding: 3px;
+    margin: 3px;
+}
+.title {
+    border: 3px solid magenta;
+}
+.sentence {
+    border: 1px solid blue;
+}
+.ref {
+    font-size: smaller;
+}
